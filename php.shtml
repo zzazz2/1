@@ -40,7 +40,7 @@
   <!--==========================
     Header
   ============================-->
- <?php include 'header.php'; ?>
+<!--#include file="header.html" -->
 
   <!--==========================
     Intro Section
